@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Git & GitHub
