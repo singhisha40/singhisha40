@@ -6,7 +6,7 @@ I enjoy working across the MERN stack, designing REST APIs, building structured 
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -86,7 +86,7 @@ A full-stack stock trading simulation platform with portfolio tracking and dashb
 ---
 
 
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
 - Advanced Backend Engineering
 - AI-integrated Applications
@@ -95,6 +95,6 @@ A full-stack stock trading simulation platform with portfolio tracking and dashb
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 - Email: ishaknp16@gmail.com
