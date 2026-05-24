@@ -32,7 +32,7 @@ I enjoy working across the MERN stack, designing REST APIs, building structured 
 - MVC Architecture
 
 ### Databases & Tools
-- MongoDB
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 - MySQL
 - Mongoose
 - Redis (Basic)
@@ -83,7 +83,7 @@ A full-stack stock trading simulation platform with portfolio tracking and dashb
 - Chart-based analytics
 - Modular backend architecture
 - CRUD-based brokerage simulation
-- 
+
 ---
 
 
