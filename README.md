@@ -64,6 +64,8 @@ A full-stack rental booking platform with secure authentication, role-based acce
 
 An AI chatbot application inspired by ChatGPT featuring persistent conversations and real-time response workflows.
 
+🔗 **Links:** [Live Demo](https://havenstay-8lo1.onrender.com) | [GitHub Repository](https://github.com/singhisha40/HavenStay)
+
 ### Key Features
 - AI-powered conversational interface
 - Persistent chat history
@@ -79,6 +81,8 @@ An AI chatbot application inspired by ChatGPT featuring persistent conversations
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Material UI, Chart.js
 
 A full-stack stock trading simulation platform with portfolio tracking and dashboard analytics.
+
+🔗 **Links:** [Live Demo](https://havenstay-8lo1.onrender.com) | [GitHub Repository](https://github.com/singhisha40/HavenStay)
 
 ### Key Features
 - Holdings & portfolio management
