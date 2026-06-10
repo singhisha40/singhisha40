@@ -42,9 +42,12 @@ I enjoy working across the MERN stack, designing REST APIs, building structured 
 # 💻 Featured Projects
 
 ## 🏠 HavenStay
+
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Passport.js
 
 A full-stack rental booking platform with secure authentication, role-based access control, and dynamic listing management.
+
+🔗 **Links:** [Live Demo](https://havenstay-8lo1.onrender.com) | [GitHub Repository](https://github.com/singhisha40/HavenStay)
 
 ### Key Features
 - Secure login/signup authentication
