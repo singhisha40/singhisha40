@@ -3,7 +3,7 @@
 Full-Stack Developer focused on building scalable web applications, backend systems, and AI-powered products.
 
 I enjoy working across the MERN stack, designing REST APIs, building structured backend architectures, and creating user-focused applications with clean workflows.
-
+Connect with me on LinkedIn:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="isha-singh-28b88322a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/isha-singh-28b88322a?trk=profile-badge">Isha Singh</a></div>
               
 
