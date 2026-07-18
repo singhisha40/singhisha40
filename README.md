@@ -63,12 +63,18 @@ Full-Stack Developer passionate about building scalable web applications, backen
 
 ### Avenx-JS
 
-Merged contribution to the Avenx-JS framework.
+Merged contributions to the Avenx-JS framework.
 
 - 📄 Added troubleshooting documentation for **AVX_W20 (RENDER_LIST_DUPLICATE_KEY)**
 - 📝 Explained duplicate key behavior, runtime fallback, and resolution with examples.
 
 **Merged PR:** https://github.com/Avenx-JS/avenx-js/pull/459
+
+- 📄 Added troubleshooting documentation for **AVX_W19 (RENDER_KEY_EVALUATION_FAILED)**
+- 📝 Documented the warning message, root cause, and resolution steps with incorrect/correct/defensive examples.
+- 🧹 Removed a duplicate placeholder "Compiler Warnings" section from `errors.md`.
+
+**Merged PR:** https://github.com/Avenx-JS/avenx-js/pull/489
 
 ---
 
