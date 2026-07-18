@@ -63,18 +63,37 @@ Full-Stack Developer passionate about building scalable web applications, backen
 
 ### Avenx-JS
 
-Merged contributions to the Avenx-JS framework.
+#### 🐞 Documentation Bug Fix — AVX_W16
+- Identified and investigated a rendering issue affecting the official documentation.
+- Compared behavior across GitHub, the documentation site, and VS Code Markdown Preview to isolate the cause.
+- Fixed the issue by correcting the Markdown formatting for the AVX_W16 warning message.
 
-- 📄 Added troubleshooting documentation for [**AVX_W20 (RENDER_LIST_DUPLICATE_KEY)**](https://github.com/Avenx-JS/avenx-js/issues/454)
-- 📝 Explained duplicate key behavior, runtime fallback, and resolution with examples.
+**Issue:** [#493](https://github.com/Avenx-JS/avenx-js/issues/493) · **Merged PR:** [#500](https://github.com/Avenx-JS/avenx-js/pull/500)
 
-**Merged PR:** https://github.com/Avenx-JS/avenx-js/pull/459
+---
 
-- 📄 Added troubleshooting documentation for [**AVX_W19 (RENDER_KEY_EVALUATION_FAILED)**](https://github.com/Avenx-JS/avenx-js/issues/453)
-- 📝 Documented the warning message, root cause, and resolution steps with incorrect/correct/defensive examples.
-- 🧹 Removed a duplicate placeholder "Compiler Warnings" section from `errors.md`.
+#### 📄 Troubleshooting Docs — AVX_W19 (RENDER_KEY_EVALUATION_FAILED)
+- Documented the warning message, root cause, and resolution steps with incorrect/correct/defensive examples.
+- Removed a duplicate placeholder "Compiler Warnings" section from `errors.md`.
 
-**Merged PR:** https://github.com/Avenx-JS/avenx-js/pull/489
+**Issue:** [#453](https://github.com/Avenx-JS/avenx-js/issues/453) · **Merged PR:** [#489](https://github.com/Avenx-JS/avenx-js/pull/489)
+
+---
+
+#### 📄 Troubleshooting Docs — AVX_W20 (RENDER_LIST_DUPLICATE_KEY)
+- Explained duplicate key behavior, runtime fallback, and resolution with examples.
+
+**Issue:** [#454](https://github.com/Avenx-JS/avenx-js/issues/454) · **Merged PR:** [#459](https://github.com/Avenx-JS/avenx-js/pull/459)
+
+
+---
+
+# 🤝 Community
+
+- Submitted and merged **3 pull requests** to Avenx-JS.
+- Reported and investigated a documentation rendering bug that was accepted and fixed.
+- Received maintainer recognition for thorough investigation and high-quality bug reporting.
+
 
 ---
 
