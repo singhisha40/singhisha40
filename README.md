@@ -63,6 +63,16 @@ Full-Stack Developer passionate about building scalable web applications, backen
 
 ### Avenx-JS
 
+📘 **Logging System Documentation — `AvenxLogger` & `AvenxApp`**
+
+- Audited the framework's undocumented logging system by tracing `AvenxLogger`, `AvenxApp`, and the CLI config loader through source code and unit tests.
+- Identified and corrected a documentation gap conflating the CLI's build-time logging config with the runtime browser logger — two separate systems that were being described as one.
+- Documented the `AvenxLogger` class, the global `logger` export, and a previously-missing `AvenxApp` constructor option, with working code examples for programmatic log-level overrides.
+
+Issue: [#384](https://github.com/Avenx-JS/avenx-js/issues/384) · Merged PR: [#671](https://github.com/Avenx-JS/avenx-js/pull/671)
+
+---
+
 #### 🐞 Documentation Bug Fix — AVX_W16
 - Identified and investigated a rendering issue affecting the official documentation.
 - Compared behavior across GitHub, the documentation site, and VS Code Markdown Preview to isolate the cause.
@@ -89,8 +99,7 @@ Full-Stack Developer passionate about building scalable web applications, backen
 ---
 
 # 🤝 Community
-
-- Submitted and merged **3 pull requests** to Avenx-JS.
+- Submitted and merged **4 pull requests** to Avenx-JS.
 - Reported and investigated a documentation rendering bug that was accepted and fixed.
 - Received maintainer recognition for thorough investigation and high-quality bug reporting.
 
