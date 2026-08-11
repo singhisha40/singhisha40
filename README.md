@@ -1,13 +1,12 @@
-# Hey, I'm Isha 👋
+# Hey, I'm Isha 
 
-Full-Stack Developer passionate about building scalable web applications, backend systems, and AI-powered products.
+**Full-Stack Dev** focused on scalable web applications, backend systems, and clean architecture.
 
-- 💻 MERN Stack Developer
-- 🌱 Learning Advanced Backend Engineering & System Design
-- 🌍 Open Source Contributor [(Avenx-JS)](https://github.com/Avenx-JS/avenx-js)
-- 📫 Reach me: **ishaknp16@gmail.com**
+- 💻 MERN Stack · Backend Engineering · System Design · Distributed Systems · Scalable Architectures
 
-### Connect : [LinkedIn](https://www.linkedin.com/in/isha-singh-28b88322a) • [Portfolio](https://ishasinghportfolio.vercel.app/) 
+Open to open-source collaboration and interesting engineering problems. Drop me an email @[📩](ishaknp16@gmail.com)
+
+#### Connect : [LinkedIn](https://www.linkedin.com/in/isha-singh-28b88322a) • [Portfolio](https://ishasinghportfolio.vercel.app/) 
 
 ---
 
