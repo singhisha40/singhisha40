@@ -4,7 +4,7 @@
 
 - 💻 MERN Stack · Backend Engineering · System Design · Distributed Systems · Scalable Architectures
 
-Open to open-source collaboration and interesting engineering problems. Drop me an email @[📩](ishaknp16@gmail.com)
+Open to open-source collaboration and interesting engineering problems. Drop me an email at ishaknp16@gmail.com
 
 #### Connect : [LinkedIn](https://www.linkedin.com/in/isha-singh-28b88322a) • [Portfolio](https://ishasinghportfolio.vercel.app/) 
 
