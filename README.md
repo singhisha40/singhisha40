@@ -98,14 +98,6 @@ Issue: [#384](https://github.com/Avenx-JS/avenx-js/issues/384) · Merged PR: [#6
 
 ---
 
-# 🤝 Community
-- Submitted and merged **4 pull requests** to Avenx-JS.
-- Reported and investigated a documentation rendering bug that was accepted and fixed.
-- Received maintainer recognition for thorough investigation and high-quality bug reporting.
-
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
