@@ -2,9 +2,10 @@
 
 **Full-Stack Dev** focused on scalable web applications, backend systems, and clean architecture.
 
-- 💻 MERN Stack · Backend Engineering · System Design · Distributed Systems · Scalable Architectures
+- MERN Stack · Backend Engineering · System Design · Distributed Systems · Scalable Architectures
+- Open Source Contributor and Organisation Member: [Avenx-js](https://github.com/Avenx-JS)
 
-Open to open-source collaboration and interesting engineering problems. Drop me an email at ishaknp16@gmail.com
+Open to open-source collaboration and interesting engineering problems. Drop me an email at ishaknp16@gmail.com <br />
 
 #### Connect : [LinkedIn](https://www.linkedin.com/in/isha-singh-28b88322a) • [Portfolio](https://ishasinghportfolio.vercel.app/) 
 
