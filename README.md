@@ -63,7 +63,25 @@ Open to open-source collaboration and interesting engineering problems. Drop me 
 
 ### Avenx-JS
 
-📘 **Logging System Documentation — `AvenxLogger` & `AvenxApp`**
+**CLI Test Coverage — `--version` / `-v` Flags**
+
+- Investigated issue #569 requesting `--version`/`-v` support and discovered the feature was already implemented in `bin/avenx.js`, with the real gap being missing test coverage.
+- Added system test coverage in `test/system/cli.test.js` that spawns the real CLI binary via the `runCli()` helper, asserting both flags exit with code `0` and print the version dynamically from `package.json`.
+
+Issue: [#569](https://github.com/Avenx-JS/Avenx-JS/issues/569) · Merged PR: [#792](https://github.com/Avenx-JS/Avenx-JS/pull/792)
+
+---
+
+**Runtime Bundle Dependency Fix — `ListManager`**
+
+- Diagnosed a CLI build failure where generated applications threw `ReferenceError: ListManager is not defined` at runtime, tracing the root cause to `ListManager` being dropped from the `dist/runtime.js` bundle during the build/packaging pipeline.
+- Added a regression test asserting the generated bundle includes `ListManager`, protecting against future packaging changes silently reintroducing the missing runtime dependency.
+
+Issue: [#942](https://github.com/Avenx-JS/Avenx-JS/issues/942) · Merged PR: [#944](https://github.com/Avenx-JS/Avenx-JS/pull/944)
+
+---
+
+**Logging System Documentation — `AvenxLogger` & `AvenxApp`**
 
 - Audited the framework's undocumented logging system by tracing `AvenxLogger`, `AvenxApp`, and the CLI config loader through source code and unit tests.
 - Identified and corrected a documentation gap conflating the CLI's build-time logging config with the runtime browser logger — two separate systems that were being described as one.
@@ -73,7 +91,7 @@ Issue: [#384](https://github.com/Avenx-JS/avenx-js/issues/384) · Merged PR: [#6
 
 ---
 
-#### 🐞 Documentation Bug Fix — AVX_W16
+#### Documentation Bug Fix — AVX_W16
 - Identified and investigated a rendering issue affecting the official documentation.
 - Compared behavior across GitHub, the documentation site, and VS Code Markdown Preview to isolate the cause.
 - Fixed the issue by correcting the Markdown formatting for the AVX_W16 warning message.
@@ -82,7 +100,7 @@ Issue: [#384](https://github.com/Avenx-JS/avenx-js/issues/384) · Merged PR: [#6
 
 ---
 
-#### 📄 Troubleshooting Docs — AVX_W19 (RENDER_KEY_EVALUATION_FAILED)
+#### Troubleshooting Docs — AVX_W19 (RENDER_KEY_EVALUATION_FAILED)
 - Documented the warning message, root cause, and resolution steps with incorrect/correct/defensive examples.
 - Removed a duplicate placeholder "Compiler Warnings" section from `errors.md`.
 
@@ -90,7 +108,7 @@ Issue: [#384](https://github.com/Avenx-JS/avenx-js/issues/384) · Merged PR: [#6
 
 ---
 
-#### 📄 Troubleshooting Docs — AVX_W20 (RENDER_LIST_DUPLICATE_KEY)
+#### Troubleshooting Docs — AVX_W20 (RENDER_LIST_DUPLICATE_KEY)
 - Explained duplicate key behavior, runtime fallback, and resolution with examples.
 
 **Issue:** [#454](https://github.com/Avenx-JS/avenx-js/issues/454) · **Merged PR:** [#459](https://github.com/Avenx-JS/avenx-js/pull/459)
