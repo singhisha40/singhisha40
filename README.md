@@ -24,6 +24,24 @@ Open to open-source collaboration and interesting engineering problems. Drop me 
 
 # 💻 Featured Projects
 
+## 🐚 AstraShell
+**POSIX-style Command-Line Shell**
+
+**Stack:** Node.js
+
+- Custom parser with quoting, escaping & tokenization
+- Pipelines & I/O redirection (`>`, `>>`, `2>`, `2>>`)
+- Background jobs with job control (`jobs`, `&`)
+- Tab completion & persistent command history
+- Published as an npm package
+
+🔗 **npm:** https://www.npmjs.com/package/astrashell
+
+🔗 **GitHub:** https://github.com/singhisha40/astrashell
+
+---
+
+
 ## 🏠 HavenStay
 **Rental Booking Platform**
 
