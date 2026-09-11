@@ -27,6 +27,9 @@ Open to open-source collaboration and interesting engineering problems. Drop me 
 ## 🐚 AstraShell
 **POSIX-style Command-Line Shell**
 
+[![npm version](https://img.shields.io/npm/v/astrashell)](https://www.npmjs.com/package/astrashell)
+[![npm downloads](https://img.shields.io/npm/dt/astrashell)](https://www.npmjs.com/package/astrashell)
+
 **Stack:** Node.js
 
 - Custom parser with quoting, escaping & tokenization
