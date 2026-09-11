@@ -4,6 +4,7 @@
 
 - MERN Stack · Backend Engineering · System Design · Distributed Systems · Scalable Architectures
 - Open Source Contributor and Organisation Member: [Avenx-js](https://github.com/Avenx-JS)
+- Checkout my latest project : [AstraShell](https://www.npmjs.com/package/astrashell)
 
 Open to open-source collaboration and interesting engineering problems. Drop me an email at ishaknp16@gmail.com <br />
 
@@ -25,58 +26,37 @@ Open to open-source collaboration and interesting engineering problems. Drop me 
 # 💻 Featured Projects
 
 ## 🐚 AstraShell
-**POSIX-style Command-Line Shell**
+**Command-Line Shell published as an npm package**
 
-[![npm version](https://img.shields.io/npm/v/astrashell)](https://www.npmjs.com/package/astrashell)
-[![npm downloads](https://img.shields.io/npm/dt/astrashell)](https://www.npmjs.com/package/astrashell)
+[![npm version](https://img.shields.io/npm/v/astrashell?style=flat-square)](https://www.npmjs.com/package/astrashell)
+[![npm downloads](https://img.shields.io/npm/dt/astrashell?style=flat-square)](https://www.npmjs.com/package/astrashell)
 
-**Stack:** Node.js
+**Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- Custom parser with quoting, escaping & tokenization
-- Pipelines & I/O redirection (`>`, `>>`, `2>`, `2>>`)
-- Background jobs with job control (`jobs`, `&`)
-- Tab completion & persistent command history
-- Published as an npm package
+**Features:** Custom Parser (Quoting, Escaping & Tokenization) • Pipelines & I/O Redirection • Background Jobs & Job Control • Tab Completion • Persistent Command History
 
-🔗 **npm:** https://www.npmjs.com/package/astrashell
-
-🔗 **GitHub:** https://github.com/singhisha40/astrashell
+🔗 [npm](https://www.npmjs.com/package/astrashell) &nbsp;•&nbsp; [GitHub](https://github.com/singhisha40/astrashell)
 
 ---
-
-
 ## 🏠 HavenStay
-**Rental Booking Platform**
+**Rental Booking Platform** 
 
-**Stack:** Node.js • Express.js • MongoDB • EJS • Passport.js
+**Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
 
-- Secure Authentication
-- CRUD Listings & Reviews
-- RESTful APIs
-- MVC Architecture
-- Server-side Validation
+**Features:** Secure Authentication • CRUD Listings & Reviews • RESTful APIs • MVC Architecture • Server-side Validation
 
-🔗 **Live:** https://havenstay-8lo1.onrender.com
-
-🔗 **GitHub:** https://github.com/singhisha40/HavenStay
+🔗 [Live](https://havenstay-8lo1.onrender.com) &nbsp;•&nbsp; [GitHub](https://github.com/singhisha40/HavenStay)
 
 ---
 
 ## 🤖 BataoGPT
-**AI Chat Application**
+**AI-Powered Chat Application**
 
-**Stack:** React • Node.js • Express.js • MongoDB • OpenRouter API
+**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logo=openai&logoColor=white)
 
-- AI Conversations
-- Persistent Chat History
-- Markdown Rendering
-- Syntax Highlighting
-- Thread Management
+**Features:** AI Conversations • Persistent Chat History • Markdown Rendering • Syntax Highlighting • Thread Management
 
-🔗 **Live:** https://gpt-project-green.vercel.app/
-
-🔗 **GitHub:** https://github.com/singhisha40/GPT-Project
-
+🔗 [Live](https://gpt-project-green.vercel.app/) &nbsp;•&nbsp; [GitHub](https://github.com/singhisha40/GPT-Project)
 
 ---
 
