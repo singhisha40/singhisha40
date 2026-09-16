@@ -2,13 +2,12 @@
 
 **Full-Stack Dev** focused on scalable web applications, backend systems, and clean architecture.
 
-- MERN Stack · Backend Engineering · System Design · Distributed Systems · Scalable Architectures
 - Open Source Contributor and Organisation Member: [Avenx-js](https://github.com/Avenx-JS)
 - Checkout my latest project : [AstraShell](https://www.npmjs.com/package/astrashell)
 
 Open to open-source collaboration and interesting engineering problems. Drop me an email at ishaknp16@gmail.com <br />
 
-#### Connect : [LinkedIn](https://www.linkedin.com/in/isha-singh-28b88322a) • [Portfolio](https://ishasinghportfolio.vercel.app/) 
+[LinkedIn](https://www.linkedin.com/in/isha-singh-28b88322a) • [Portfolio](https://ishasinghportfolio.vercel.app/) 
 
 ---
 
@@ -113,13 +112,3 @@ Issue: [#384](https://github.com/Avenx-JS/avenx-js/issues/384) · Merged PR: [#6
 - Explained duplicate key behavior, runtime fallback, and resolution with examples.
 
 **Issue:** [#454](https://github.com/Avenx-JS/avenx-js/issues/454) · **Merged PR:** [#459](https://github.com/Avenx-JS/avenx-js/pull/459)
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhisha40&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhisha40&theme=tokyonight" height="170"/>
-</p>
