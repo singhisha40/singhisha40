@@ -28,7 +28,7 @@ Open to open-source collaboration and interesting engineering problems. Drop me 
 **Command-Line Shell published as an npm package**
 
 [![npm version](https://img.shields.io/npm/v/astrashell?style=flat-square)](https://www.npmjs.com/package/astrashell)
-[![npm downloads](https://img.shields.io/npm/dt/astrashell?style=flat-square)](https://www.npmjs.com/package/astrashell)
+
 
 **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
