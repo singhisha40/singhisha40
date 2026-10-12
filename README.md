@@ -2,7 +2,7 @@
 
 **Full-Stack Dev** focused on scalable web applications, backend systems, and clean architecture.
 
-- Open Source Contributor and Organisation Member: [Avenx-js](https://github.com/Avenx-JS)
+- Organisation Member: [Avenx-js](https://github.com/Avenx-JS)
 - Checkout my latest project : [AstraShell](https://www.npmjs.com/package/astrashell)
 
 Open to open-source collaboration and interesting engineering problems. Drop me an email at ishaknp16@gmail.com <br />
