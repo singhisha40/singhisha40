@@ -10,33 +10,32 @@ Open to open-source collaboration and interesting engineering problems. Drop me 
 [LinkedIn](https://www.linkedin.com/in/isha-singh-28b88322a) • [Portfolio](https://ishasinghportfolio.vercel.app/) 
 
 ---
-
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 | Category | Technologies |
-|----------|--------------|
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-| **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?logo=githubactions&logoColor=white) |
+|---|---|
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white) |
 ---
 
 # 💻 Featured Projects
 
-## 🐚 AstraShell
-**Command-Line Shell published as an npm package**
 
-[![npm version](https://img.shields.io/npm/v/astrashell?style=flat-square)](https://www.npmjs.com/package/astrashell)
+## 🛡️ SentinelOps MCP
 
+**Secure AI IT Helpdesk Agent built on the Model Context Protocol**
 
-**Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+Tech Stack: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
-**Features:** Custom Parser (Quoting, Escaping & Tokenization) • Pipelines & I/O Redirection • Background Jobs & Job Control • Tab Completion • Persistent Command History
+**Features:** RBAC & Ownership Checks • Policy Engine • Human Approval Workflow • Audit Logging • Prompt-Injection Defence • Typed PostgreSQL Access
 
-🔗 [npm](https://www.npmjs.com/package/astrashell) &nbsp;•&nbsp; [GitHub](https://github.com/singhisha40/astrashell)
+🔗 [GitHub](https://github.com/singhisha40/SentinelOps-MCP)
 
 ---
+
 ## 🏠 HavenStay
 **Rental Booking Platform** 
 
@@ -56,6 +55,21 @@ Open to open-source collaboration and interesting engineering problems. Drop me 
 **Features:** AI Conversations • Persistent Chat History • Markdown Rendering • Syntax Highlighting • Thread Management
 
 🔗 [Live](https://gpt-project-green.vercel.app/) &nbsp;•&nbsp; [GitHub](https://github.com/singhisha40/GPT-Project)
+
+
+---
+## 🐚 AstraShell
+**Command-Line Shell published as an npm package**
+
+[![npm version](https://img.shields.io/npm/v/astrashell?style=flat-square)](https://www.npmjs.com/package/astrashell)
+
+
+**Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Features:** Custom Parser (Quoting, Escaping & Tokenization) • Pipelines & I/O Redirection • Background Jobs & Job Control • Tab Completion • Persistent Command History
+
+🔗 [npm](https://www.npmjs.com/package/astrashell) &nbsp;•&nbsp; [GitHub](https://github.com/singhisha40/astrashell)
+
 
 ---
 
