@@ -3,7 +3,7 @@
 **Full-Stack Dev** focused on scalable web applications, backend systems, and clean architecture.
 
 - Organisation Member: [Avenx-js](https://github.com/Avenx-JS)
-- Checkout my latest project : [AstraShell](https://www.npmjs.com/package/astrashell)
+- Checkout my latest project : [SentinelOps-MCP](https://github.com/singhisha40/SentinelOps-MCP)
 
 Open to open-source collaboration and interesting engineering problems. Drop me an email at ishaknp16@gmail.com <br />
 
