@@ -1,6 +1,6 @@
 # Hey, I'm Isha 
 
-**Full-Stack Dev** focused on scalable web applications, backend systems, and clean architecture.
+I love to explore different tech, and I try to do it while I progress with my career.
 
 - Organisation Member: [Avenx-js](https://github.com/Avenx-JS)
 - Checkout my latest project : [SentinelOps-MCP](https://github.com/singhisha40/SentinelOps-MCP)
